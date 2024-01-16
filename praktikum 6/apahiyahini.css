@@ -1,0 +1,58 @@
+#header {
+    background-color: rgb(30, 210, 144);
+}
+
+.body {
+    background-color: rgb(216, 189, 181);
+}
+
+#h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#bc {
+    background-color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.gg {
+    width: 500px;
+    height: 450px;
+    border-radius: 5%;
+}
+
+.jawa {
+    font-size: xx-large;
+    color: rgb(83, 138, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.isi {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#profil,
+#beternak {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.atas,
+.bawah {
+    width: 500px;
+    height: 450px;
+    border-radius: 5%;
+}
+
+.promo {
+    background-color: rgb(63, 48, 145);
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+}
